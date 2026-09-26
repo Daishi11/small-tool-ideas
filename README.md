@@ -124,7 +124,7 @@ https://github.com/Daishi11/youtube-punch-eq
 
 If you enjoy the tools I make and would like to support future development, you can find me on Ko-fi:
 
-YOUR_KOFI_URL
+[Ko-fi - Daishi11](https://ko-fi.com/daishi11)
 
 Support is always appreciated, but never expected.
 
