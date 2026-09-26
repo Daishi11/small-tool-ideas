@@ -43,7 +43,7 @@ Have something in mind?
 
 Open a discussion here:
 
-https://github.com/Daishi11/small-tool-ideas/discussions
+https://github.com/Daishi11/small-tool-ideas/discussions/new?category=ideas
 
 Please describe:
 
